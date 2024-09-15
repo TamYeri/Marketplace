@@ -1,0 +1,17 @@
+{
+    "name": "crazymesut/marketplace",
+    "autoload": {
+        "psr-4": {
+            "CrazyMesut\\Marketplace\\": "src/CrazyMesut/Marketplace/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mesut KURT"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
